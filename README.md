@@ -7,4 +7,8 @@
   * Thunar File Manager
   * Neovim
   * Bspwm && Sxhkd
-  
+  * Arc Icon Theme && Moka Icon Theme
+  * Arc Theme
+  * Starship Prompt
+  * JetBrainsMono Nerd Font
+  * Terminal Root fonts
