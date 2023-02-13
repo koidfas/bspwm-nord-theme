@@ -1,0 +1,5 @@
+require("core.plugins_configs.nord")
+require("core.plugins_configs.lualine")
+require("core.plugins_configs.nvim-tree")
+require("core.plugins_configs.mason")
+require("core.plugins_configs.bufferline")
